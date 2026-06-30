@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "HT Gas",
+    "slug": "ht-gas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.htgas.app",
+      "versionCode": 1
+    }
+  }
+}
